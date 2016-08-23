@@ -1,5 +1,5 @@
 /**
-* <h1> Obligatorisk oppgave INF1000 2015, oppgave 1.2 </h1>
+* <h1> Obligatorisk oppgave INF1000 2015, oppgave 1.3 </h1>
 */
 
 import java.util.Scanner;

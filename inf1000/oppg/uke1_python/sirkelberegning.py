@@ -2,10 +2,15 @@
 
 import math
 
-radius = 6
+radius = 9
 diameter = 2*radius
-omkrets = math.pi*diameter
-areal = math.pi*radius**2
 
-print (" Diameter: ", diameter,\n, "Areal: ", areal
-        ,\n, "Omkrets: ", omkrets)
+def omkrets(diameter):
+    o = math.pi*diameter
+    return round(o, 2)
+
+def areal(radius):
+    a = math.pi*radius**2
+    return round(a, 2)
+
+print ' Diameter: ', diameter, '\n Areal: ', areal(radius), '\n Omkrets: ', omkrets(diameter)

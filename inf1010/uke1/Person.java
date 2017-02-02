@@ -1,23 +1,16 @@
 /**
-Oppgave 01.1: Person, Oppgave 01.2: Hus
+Oppgave 1.1: Person
 */
 
-class Person {
+public class Person {
     private String navn;
+    private Hus etHus;
 
-    public Person (String navn) {
+    public Person(String navn) {
         this.navn = navn;
     }
 
     public String getNavn() {
         return navn;
-    }
-}
-
-class Hus {
-    private Person eier;
-
-    public Hus(Person eier){
-        this.eier = eier;
     }
 }

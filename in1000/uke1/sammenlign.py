@@ -1,7 +1,7 @@
 # 1.09: Sammenligning av to tall
 
-a = 5
-b = 3
+a = 2
+b = 5
 
 if a == b:
     print("A og B er like store")

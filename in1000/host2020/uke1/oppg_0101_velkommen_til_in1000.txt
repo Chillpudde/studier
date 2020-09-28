@@ -1,0 +1,8 @@
+01.01: Velkommen til IN1000
+
+Filnavn: velkommen.py
+
+Kopier koden nedefor til en fil du kaller velkommen.py på din datamaskin.
+Naviger deg til riktig mappe i terminalen og kjør programmet
+
+print("Velkommen til IN1000")

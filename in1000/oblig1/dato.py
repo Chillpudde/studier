@@ -1,3 +1,6 @@
+# OBS !!! PROGRAMMET INNEHOLDER FEIL !!!
+
+
 # Oppgave 3: Problemløsning med beslutninger
 
 

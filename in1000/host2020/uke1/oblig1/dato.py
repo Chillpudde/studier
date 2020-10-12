@@ -16,9 +16,12 @@ dato_2 = dag_2, mnd_2
 print(*dato_2, sep = ".")
 
 # 2.
+# a.
 if (dag_1 < dag_2 and mnd_1 <= mnd_2) or (dag_1 >= dag_2 and mnd_1 < mnd_2):
     print("Riktig rekkefolge!")
+# b.
 elif (mnd_1 > mnd_2) or (mnd_1 == mnd_2 and dag_1 > dag_2):
     print("Feil rekkefolge!")
+# c.
 else:
     print("Samme dato!")

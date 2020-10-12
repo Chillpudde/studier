@@ -1,24 +1,30 @@
 # Oppgave 3: Problemløsning med beslutninger
 
 # 1.
-print("Skriv inn to datoer (dag, mnd), i kronologisk rekkefolge \n")
+print("Skriv inn to datoer i kronologisk rekkefolge \n\n")
 
-dag_1 = input("Dag: ")
-mnd_1 = input("Maaned: ")
-dato_1 = dag_1, mnd_1
-print(*dato_1, sep = ".")
+# Angir antall dager per måned
+max_dag_29 = 29
+max_dag_30 = 30
+max_dag_31 = 31
 
-print("\n")
+# Plassholder for datoene som skrives inn
+dato_1 = [0,0]
+dato_2 = [0,0]
 
-dag_2 = input("Dag: ")
-mnd_2 = input("Maaned: ")
-dato_2 = dag_2, mnd_2
-print(*dato_2, sep = ".")
+dato_1_input = input("Skriv inn 1. dato:").
+
+
+print(*dato_1, sep= ".")
+print(*dato_2, sep= ".")
 
 # 2.
-if (dag_1 < dag_2 and mnd_1 <= mnd_2) or (dag_1 >= dag_2 and mnd_1 < mnd_2):
+# a.
+if (dato_1[0] < dato_2[0] and dato_1[1] <= dato_2[1]) or (dato_1[0] >= dato_2[0] and dato_1[1] < dato_2[1]):
     print("Riktig rekkefolge!")
-elif (mnd_1 > mnd_2) or (mnd_1 == mnd_2 and dag_1 > dag_2):
+# b.
+elif (dato_1[1] > dato_2[1]) or(dato_1[1] == dato_2[1] and dato_1[0] > dato_2[0]):
     print("Feil rekkefolge!")
+# c.
 else:
     print("Samme dato!")

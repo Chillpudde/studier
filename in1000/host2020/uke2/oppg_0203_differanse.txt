@@ -1,0 +1,19 @@
+02.03: Differansen mellom to heltall
+
+Navn: differanse.py
+
+Lag et program som ber om og leser inn to heltall.
+Programmet skal deretter regne ut differansen mellom de to tallene
+og skrive ut svaret. Her er et eksempel på hvordan en kjøring av
+programmet kan se ut:
+
+Oppgi verdien til x:
+> 25
+Oppgi verdien til y:
+> 19
+
+Differansen mellom x og y er 6.
+Hint: Du behøver ikke tenke på at det første tallet kan være mindre enn
+det andre. Det er ikke nødvendig å regne ut absoluttverdien av
+differansen (men prøv gjerne å finne ut hvordan det gjøres, dersom du
+ønsker en ekstra utfordring).

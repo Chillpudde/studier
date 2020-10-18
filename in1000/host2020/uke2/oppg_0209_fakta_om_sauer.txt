@@ -1,0 +1,14 @@
+02.09: Fakta om sauer
+
+Filnavn: sauer.py
+
+I denne oppgaven skal du printe ut 5 fakta om sauer i en prosedyre. Dette skal
+skje på 5 forkjellige linjer.
+
+Forslag til saue fakta:
+
+Sauer er dumme dyr.
+Sauer er myke dyr.
+Sauer kan lofte 12 ganger sin egen vekt.
+Sauer lukter litt som geiter.
+Sauen er din venn.

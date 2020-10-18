@@ -1,0 +1,12 @@
+02.11: Tekstutskrift med formatering
+
+Filnavn: tekstformatering.py
+
+1. Skriv et program som inneholder tre forskjellige navn inneholdt i tre
+forskjellige variabler. Pass på at navnene er av forskjellig lengde.
+2. Skriv ut navnene, men sørg for at navnene blir skrevet ut justert til høyre.
+Se under for eksempelutskrift:
+
+Navn 1:      Arne
+Navn 2:       Dag
+Navn 3:     Ellen

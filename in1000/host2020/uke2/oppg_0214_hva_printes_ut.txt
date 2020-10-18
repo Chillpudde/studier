@@ -1,0 +1,9 @@
+# 02.14: Hva printes ut?
+
+Filnavn: hva_printes_ut.py
+
+Hvilket tall blir printet ut etter følgende kodesnutt blir kjørt?
+
+print(1+5*2)
+print(2*5+2*2)
+print(4*5+2*3/2)

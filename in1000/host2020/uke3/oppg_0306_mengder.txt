@@ -1,0 +1,8 @@
+# 03.06: Mengder
+
+Filnavn: mengder.py
+
+Hva blir printet ut når følgende kodesnutt blir kjørt
+
+frukt = {"banan", "eple", "banan", "appelsin", "Banan", "banan"}
+print(frukt)

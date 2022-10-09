@@ -10,9 +10,9 @@ For "optimal" funksjon burde følgende fikses:
 - Ta hensyn til år
 - Sjekke at formatet stemmer
 - La bruker skrive inn et "skillesymbol" (ex. DD.MM.YY)
-- Og div annet... holdt meg til oppgaves "scope"
+- Og div annet... holdt meg til oppgavens "scope"
 """
-
+print("\n")
 print("| Skriv inn to datoer i kronologisk rekkefolge |\n")
 
 dato_1 = int(input("Skriv inn forste dato (DDMM): "))

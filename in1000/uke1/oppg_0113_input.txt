@@ -1,6 +1,0 @@
-01.13 Input
-
-Filnavn: brukerinput.py
-
-I denne oppgaven skal du skrive et program
-som tar imot en melding fra brukeren og printer den ut.

@@ -1,7 +1,0 @@
-03.18: Har du råd?
-
-Filnavn: raad.py
-
-Du skal lage et program som først tar inn saldoen på din bankkonto
-Deretter skal man skrive inn en totalpris på en vare du har lyst til å kjøpe.
-Programmet skal deretter gi tilbakemelding om du har råd eller ikke.

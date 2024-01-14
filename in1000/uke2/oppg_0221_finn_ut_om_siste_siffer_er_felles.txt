@@ -1,9 +1,0 @@
-02.21: Finn ut om siste siffer er felles
-
-Filnavn: siste_siffer.py
-
-Gitt tre heltallsvariable, a, b og c med ikke-negative verdier som du velger
-selv, sjekk om to eller flere har felles siste siffer, og skriv eventuelt ut
-disse til skjerm.
-
-Hint: se om du kan bruke modulo-operatøren (%)!

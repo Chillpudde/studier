@@ -1,9 +1,0 @@
-02.22: Volum med feil
-
-Filnavn: volum.py
-
-Finn feilene i dette programmet:
-
-lengde = 3
-volum = lengde * bredde * høyde
-print("Volumet er:" volum)

@@ -1,0 +1,7 @@
+03.16: Tegn en snømann
+
+Filnavn: snomann.py
+
+Bruk modulen ezgraphics.py til å tegne en snømann! For å få til dette må du
+lage flere sirkler og farger og prøve deg frem med plassering av de
+forskjellige elementene.

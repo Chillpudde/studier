@@ -1,0 +1,12 @@
+02.13: Kodeflyt
+
+pris = 50 # Gir pris heltallsverdien "50"
+tekst = input("Skriv inn alder: ") # Henter input fra bruker
+alder = int(tekst) # tar inn "tekst" som argument, gjør tekst til heltall
+
+if alder < 12 or alder > 67:
+# hvis alder er mindre enn 12 eller større enn 67 går den til første print-linje
+    print("Du må betale", pris*0.5, "kr")
+else: # dersom alder ikke faller innenfor 12 til 67 går programmet til
+      # andre print-linje
+    print("Du må betale", pris, "kr")

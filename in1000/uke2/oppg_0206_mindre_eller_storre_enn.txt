@@ -1,0 +1,21 @@
+02.06: Mindre eller større enn
+
+Filnavn: mindre_storre.py
+
+a) Lag et program som tar inn et tall fra brukeren og skriver ut om tallet er mindre eller større enn 10.
+b) Legg deretter til en test til for å sjekke om tallet er mindre eller større enn 20.
+c) Endre programmet slik at brukeren kun får én tilbakemelding per tall som er tastet inn.
+
+Programmet skal kunne se slik ut under kjøring:
+
+Tast inn et tall:
+> 13
+Tallet er mellom 10 og 20
+
+Tast inn et tall:
+> 9
+Tallet er under 10
+
+Tast inn et tall:
+> 22
+Tallet er over 20

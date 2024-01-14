@@ -1,0 +1,27 @@
+02.15: Kodeforståelse
+
+Filnavn: sammenslaaing.py
+
+Under følger tre kodesnutter. For hver av dem, svar på følgende spørsmål:
+
+Er dette lovlig kode?
+Hva skjer når vi prøver å kjøre programsnuttene hver for seg?
+a)
+
+a = 10
+b = "hei!"
+c = a+b
+print(c)
+b)
+
+x = "10"
+y = "hei!"
+print(x + y)
+c)
+
+i = 10
+j = "12"
+print(i + j)
+d) Forsøk å kjøre de tre kodesnuttene hver for seg, og sjekk om du hadde rett.
+
+e) Bruk str() for å konvertere variabel a i oppgave a). Konverter variabel j fra oppgave c til en int på samme måte med metoden int() og kjør programmet på nytt. Hva skrives ut nå?

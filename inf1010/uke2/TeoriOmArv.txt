@@ -1,0 +1,18 @@
+2.1 Teorioppgaver om arv
+
+a) Bruke eller ikke bruke "instanceof"?
+Man bruker instanceof om man ønsker å sjekke om et objekt er en instanse av
+et annet objekt.
+
+Om man heller kan "override" eller anvende "polymorphing". Man velger heller å
+reassigne en metode enn å kjøre en if-else x instanceof y. Dette er rotete og lite
+effektivt.
+
+b) Konvertere fra subclass til superclass.
+En subclass har funksjoner i tillegg til de som en superclass har. Det vil derfor ikke
+være god kodeskriving å prøve å gjøre en subclass til en superclass. Det er mulig å "cast'e"
+en subclass til superclass, men skal ikke være nødvendig.
+
+
+c) Konvertere fra superclass til subclass.
+Dette er mulig, men ikke anbefalt da det kan føre til en "CastClassException"

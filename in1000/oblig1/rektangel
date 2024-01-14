@@ -1,0 +1,6 @@
+# 1.07: Areal av rektangel
+
+width =
+length =
+
+print(width, length)

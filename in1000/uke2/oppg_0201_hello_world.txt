@@ -1,0 +1,15 @@
+02.01: Hello World!
+
+Filnavn: hello_world.py
+
+a) Lag et program som lagrer tekststrengen "Hello" i en variabel "hello"
+og print denne variabelen til terminalen.
+b) Lag en variabel "world" som tar var på tekststrengen "World".
+c) Print nå begge variablene til skjermen i kun én print-setning
+
+UTFORDRING
+d) Bruk variablene "hello" og "world" i en eller flere print-setning til å
+gi utskriften: Hello? World?
+
+Hint: Som parameter til print() kan man gi sep="" for at det ikke
+skal komme mellomrom mellom parameterne.

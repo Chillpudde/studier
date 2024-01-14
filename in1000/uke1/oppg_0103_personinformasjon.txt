@@ -1,0 +1,6 @@
+01.03: Personinformasjon
+
+Filnavn: person.py
+
+1. Skriv ditt navn, tlf og adresse til terminal på samme linje.
+2. Skriv ditt navn, tlf og adresse til terminal på hver sin linje.

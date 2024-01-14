@@ -1,0 +1,25 @@
+02.18: Handletur
+
+Filnavn: handletur.py
+
+Programmet skal regne ut totalpris for en bruker etter å ha vært på handletur.
+De varene det er mulig å kjøpe er brød, melk, ost og yoghurt.
+
+Prisene er som følger:
+Brød: 20 kr.
+Melk: 15 kr.
+Ost: 40 kr.
+Youghurt: 12 kr.
+
+Eksempel på interaksjon med programmet:
+
+Hei! Velkommen til IFI-butikken.
+Hvor mange broed vil du ha?
+> 2
+Hvor mange melk vil du ha?
+> 1
+Hvor mange ost vil du ha?
+> 1
+Hvor mange yoghurt vil du ha?
+> 3
+Du skal betale: 131 kr.

@@ -1,9 +1,0 @@
-02.23: Feil i små program
-
-Filnavn: feil_i_smaa_prgram.py
-
-Finn fire feil i programmet under:
-
-tall = input(Tast inn et siffer: )
-dobbelt = 2 * tall
-print("Det dobbelte er" dobbel)
